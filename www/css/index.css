@@ -1,0 +1,27 @@
+#typed{
+    position:relative;
+    margin:auto;
+}
+button{
+    position:relative;
+    margin: auto;
+}
+well{
+    position:relative;
+    margin:5%;
+}
+
+#save{
+    position:relative;
+    display: block;
+    margin:auto;
+    margin-top:10px;
+    width:100%;
+}
+.delete-button{
+    position:relative;
+    display:block;
+    margin:auto;
+    margin-top:10px;
+    width:100%;
+}
